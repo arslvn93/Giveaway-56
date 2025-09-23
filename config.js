@@ -125,7 +125,7 @@ const config = {
       },
       {
         "q": "How will I know if I win?",
-        "a": "We�27ll email the winner on October 10th. Check your inbox and spam just in case!"
+        "a": "Well email the winner on October 10th. Check your inbox and spam just in case!"
       },
       {
         "q": "Do I need to pay for anything?",
@@ -133,7 +133,7 @@ const config = {
       },
       {
         "q": "Can I bring someone with me?",
-        "a": "Yes! The prize is for two tickets�2Dshare the fun."
+        "a": "Yes! The prize is for two tickets to share the fun."
       },
       {
         "q": "What if I cant go to the game day?",
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758649743356_0",
+      "id": "q_auto_1758649947204_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649743356_1",
+      "id": "q_auto_1758649947204_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649743356_2",
+      "id": "q_auto_1758649947204_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649743356_3",
+      "id": "q_auto_1758649947204_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
