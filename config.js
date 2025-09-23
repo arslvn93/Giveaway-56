@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win Free Raptors Tickets to the Home Opener vs. Bucks!",
-    "heroSubheadline": "Watch the Raptors take on the Bucks this October with $360 in ticketsfor an unforgettable night out. Entry is free\u0000. Don´t miss your shot to see it live!",
+    "heroSubheadline": "Watch the Raptors take on the Bucks this October with $360 in tickets for an unforgettable night out. Entry is free\u0000. Don´t miss your shot to see it live!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/0c8ar07panrme0cs9qkrfy160g.jpg",
     "promotionDates": "Enter from September 21 to October 9, 2025 \u00002D winner drawn October 10!",
     "endDate": "2025-10-10T03:59:00.000Z",
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758654390518_0",
+      "id": "q_auto_1758654397684_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758654390518_1",
+      "id": "q_auto_1758654397684_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758654390518_2",
+      "id": "q_auto_1758654397684_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758654390518_3",
+      "id": "q_auto_1758654397684_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
