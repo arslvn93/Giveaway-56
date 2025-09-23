@@ -141,8 +141,8 @@ const config = {
       }
     ],
     "tips": [
-      "Submit your best contact email so you don�27t miss out",
-      "Double-check that you�27re free on October 24th",
+      "Submit your best contact email so you dont miss out",
+      "Double-check that youre free on October 24th",
       "Share the giveaway with friends who love basketball",
       "Follow James Hall on Instagram and Facebook for winner updates"
     ],
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758649716154_0",
+      "id": "q_auto_1758649743356_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649716154_1",
+      "id": "q_auto_1758649743356_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649716154_2",
+      "id": "q_auto_1758649743356_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649716154_3",
+      "id": "q_auto_1758649743356_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
