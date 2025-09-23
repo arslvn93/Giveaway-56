@@ -90,12 +90,12 @@ const config = {
       {
         "icon": "fas fa-check-circle",
         "title": "Answer Two Quick Questions",
-        "description": "Tell us what you love about basketball and if you�27re thinking of moving soon."
+        "description": "Tell us what you love about basketball and if you´re thinking of moving soon."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "You�27re In!",
-        "description": "You�27re officially entered. Winner picked October 10th."
+        "title": "You´re In!",
+        "description": "You´re officially entered. Winner picked October 10th."
       }
     ],
     "highlights": [
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758655245416_0",
+      "id": "q_auto_1758656789530_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758655245416_1",
+      "id": "q_auto_1758656789530_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758655245416_2",
+      "id": "q_auto_1758656789531_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758655245416_3",
+      "id": "q_auto_1758656789531_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
