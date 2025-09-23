@@ -136,7 +136,7 @@ const config = {
         "a": "Yes! The prize is for two tickets�2Dshare the fun."
       },
       {
-        "q": "What if I can�27t go to the game day?",
+        "q": "What if I cant go to the game day?",
         "a": "Please only enter if you are free to attend on October 24, 2025."
       }
     ],
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758649646037_0",
+      "id": "q_auto_1758649685538_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649646037_1",
+      "id": "q_auto_1758649685538_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649646037_2",
+      "id": "q_auto_1758649685538_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758649646037_3",
+      "id": "q_auto_1758649685538_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
