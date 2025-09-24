@@ -13,9 +13,9 @@ const config = {
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win!",
     "name": "Raptors Home Opener Giveaway",
-    "successModalHeaderText": "You\u000027re In the Running!",
+    "successModalHeaderText": "You\u0000´re In the Running!",
     "successModalMainMessage": "Your entry for the <strong>Raptors Home Opener Night Out</strong> is in! Watch your inbox on October 10th. Good luck!",
-    "successModalEmailPrompt": "Tell your friends\u000020\u00002D more fans mean more fun. See you at the game?"
+    "successModalEmailPrompt": "Tell your friends\u0000 more fans mean more fun. See you at the game?"
   },
   "settings": {
     "confettiColors": [
@@ -163,12 +163,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-56.netlify.app%2Fadmin&text=Win%20Raptors%20Home%20Opener%20Tickets%20-%20$360%20Basketball%20Night%20Out!"
     },
     "subtitle": "Want to see the Raptors live? Enter your info for a chance to win free tickets!",
-    "entryCountText": "Hundreds of entries already\u00002Dwill you be our lucky winner?",
+    "entryCountText": "Hundreds of entries already\u0000 will you be our lucky winner?",
     "socialSharePrompt": "Love sports? Share this giveaway and help a friend win too!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758730496217_0",
+      "id": "q_auto_1758730547549_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730496217_1",
+      "id": "q_auto_1758730547549_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730496217_2",
+      "id": "q_auto_1758730547549_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730496217_3",
+      "id": "q_auto_1758730547549_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
@@ -254,8 +254,8 @@ const config = {
           "text": "My kids"
         },
         {
-          "value": "I�27d go solo",
-          "text": "I�27d go solo"
+          "value": "I´d go solo",
+          "text": "I´d go solo"
         }
       ]
     }
