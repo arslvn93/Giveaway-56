@@ -76,7 +76,7 @@ const config = {
     ],
     "name": "Raptors Home Opener Night Out Package",
     "value": "$360 Value",
-    "description": "Picture yourself courtside as the Raptors hit the court for an electric season opener. Loud cheers, slam dunks, and non-stop excitement all for free! This package gives you two amazing seats to see the Raptors face the Bucks at home. It\u000027s the perfect way to kick off the basketball season.",
+    "description": "Picture yourself courtside as the Raptors hit the court for an electric season opener. Loud cheers, slam dunks, and non-stop excitement all for free! This package gives you two amazing seats to see the Raptors face the Bucks at home. It\u0000´s the perfect way to kick off the basketball season.",
     "limitedTimeOfferText": "Only one lucky winner\u0000. <enter before it\u0000s gone!",
     "ctaButtonText": "I Want These Tickets!"
   },
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758730590217_0",
+      "id": "q_auto_1758730606034_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730590217_1",
+      "id": "q_auto_1758730606034_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730590217_2",
+      "id": "q_auto_1758730606034_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730590217_3",
+      "id": "q_auto_1758730606034_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
