@@ -168,94 +168,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758731316747_0",
-      "questionText": "How do you typically enjoy a game night at home?",
+      "id": "q_auto_1758737968680_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Hosting friends for a viewing party",
-          "text": "Hosting friends for a viewing party"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Watching with family",
-          "text": "Watching with family"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Alone with takeaway pizza",
-          "text": "Alone with takeaway pizza"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Visiting a local sports bar",
-          "text": "Visiting a local sports bar"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1758731316747_1",
-      "questionText": "Which of these best describes your current living situation?",
+      "id": "q_auto_1758737968680_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Renting and thinking of buying",
-          "text": "Renting and thinking of buying"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Recently bought a home",
-          "text": "Recently bought a home"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
-          "value": "Homeowner considering a change",
-          "text": "Homeowner considering a change"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Content with current home",
-          "text": "Content with current home"
+          "value": "I'm not sure yet",
+          "text": "I'm not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1758731316747_2",
-      "questionText": "What's your favorite way to celebrate a sports victory?",
+      "id": "q_auto_1758737968680_2",
+      "questionText": "What's your current housing situation?",
       "options": [
         {
-          "value": "Throwing a party at home",
-          "text": "Throwing a party at home"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Going out with friends",
-          "text": "Going out with friends"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Tuning into post-game analysis",
-          "text": "Tuning into post-game analysis"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Planning the next game outing",
-          "text": "Planning the next game outing"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1758731316747_3",
-      "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
-      "options": [
-        {
-          "value": "My real estate agent (we have a great relationship)",
-          "text": "My real estate agent (we have a great relationship)"
-        },
-        {
-          "value": "A fellow sports-enthusiast friend",
-          "text": "A fellow sports-enthusiast friend"
-        },
-        {
-          "value": "My partner",
-          "text": "My partner"
-        },
-        {
-          "value": "My kids",
-          "text": "My kids"
-        },
-        {
-          "value": "I´d go solo",
-          "text": "I´d go solo"
+          "value": "I'm actively looking to buy or sell now",
+          "text": "I'm actively looking to buy or sell now"
         }
       ]
     }
