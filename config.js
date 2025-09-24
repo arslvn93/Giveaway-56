@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758730547549_0",
+      "id": "q_auto_1758730577017_0",
       "questionText": "How do you typically enjoy a game night at home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730547549_1",
+      "id": "q_auto_1758730577017_1",
       "questionText": "Which of these best describes your current living situation?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730547549_2",
+      "id": "q_auto_1758730577017_2",
       "questionText": "What's your favorite way to celebrate a sports victory?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758730547549_3",
+      "id": "q_auto_1758730577017_3",
       "questionText": "If you won a pair of Raptors tickets for a prime game night, who would you take with you?",
       "options": [
         {
@@ -268,9 +268,9 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You\u000027re In the Running!",
+    "headerText": "You\u0000´re In the Running!",
     "mainMessage": "Your entry for the <strong>Raptors Home Opener Night Out</strong> is in! Watch your inbox on October 10th. Good luck!",
-    "socialPromptText": "Tell your friends\u000020\u00002D more fans mean more fun. See you at the game?"
+    "socialPromptText": "Tell your friends\u0000! More fans mean more fun. See you at the game?"
   },
   "footerContact": {
     "social": {
