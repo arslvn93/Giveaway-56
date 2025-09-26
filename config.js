@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758910370496_0",
+      "id": "q_auto_1758912399108_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758910370496_1",
+      "id": "q_auto_1758912399108_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758910370496_2",
+      "id": "q_auto_1758912399108_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758910370496_3",
+      "id": "q_auto_1758912399108_3",
       "questionText": "Which area interests you most for your next move?",
       "options": [
         {
@@ -252,22 +252,6 @@ const config = {
         {
           "value": "West end of Toronto",
           "text": "West end of Toronto"
-        },
-        {
-          "value": "North York/Scarborough",
-          "text": "North York/Scarborough"
-        },
-        {
-          "value": "Mississauga/Brampton",
-          "text": "Mississauga/Brampton"
-        },
-        {
-          "value": "Outside the GTA",
-          "text": "Outside the GTA"
-        },
-        {
-          "value": "I'm flexible on location",
-          "text": "I'm flexible on location"
         }
       ]
     }
