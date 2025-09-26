@@ -74,9 +74,9 @@ const config = {
         "text": "Perfect night out for friends, family, or date"
       }
     ],
-    "name": "Raptors Home Opener Night Out Package",
+    "name": "Raptors Home Opener Giveaway",
     "value": "$360 Value",
-    "description": "Picture yourself courtside as the Raptors hit the court for an electric season opener. Loud cheers, slam dunks, and non-stop excitement all for free! This package gives you two amazing seats to see the Raptors face the Bucks at home. It\u0000´s the perfect way to kick off the basketball season.",
+    "description": "Picture yourself in the building as the Raptors hit the court for an electric season opener. This offer gives you two amazing seats to see the Raptors face the Bucks at home. It´s the perfect way to kick off the basketball season",
     "limitedTimeOfferText": "Only one lucky winner\u0000. Enter before it\u0000s gone!",
     "ctaButtonText": "I Want These Tickets!"
   },
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758894435478_0",
+      "id": "q_auto_1758894479141_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894435478_1",
+      "id": "q_auto_1758894479141_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894435478_2",
+      "id": "q_auto_1758894479141_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
