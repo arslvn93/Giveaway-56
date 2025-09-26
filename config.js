@@ -125,7 +125,7 @@ const config = {
       },
       {
         "q": "How will I know if I win?",
-        "a": "Well email the winner on October 10th. Check your inbox and spam just in case!"
+        "a": "Well email the winner on October 13th. Check your inbox and spam just in case"
       },
       {
         "q": "Do I need to pay for anything?",
@@ -146,7 +146,7 @@ const config = {
       "Share the giveaway with friends who love basketball",
       "Follow James Hall on Instagram and Facebook for winner updates"
     ],
-    "finePrintText": "This giveaway is sponsored by James Hall Real Estate and is not affiliated with the Toronto Raptors or NBA. Winner will be chosen at random on October 10, 2025. Must be 18+ and available in Toronto on October 24, 2025 to enter.",
+    "finePrintText": "This giveaway is sponsored by James Hall Real Estate and is not affiliated with the Toronto Raptors or NBA. Winner will be chosen at random on October 13th, 2025. Must be 18+ and available in Toronto on October 24, 2025 to enter.",
     "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Every Entry Counts",
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758894521039_0",
+      "id": "q_auto_1758894605072_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894521039_1",
+      "id": "q_auto_1758894605072_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894521039_2",
+      "id": "q_auto_1758894605072_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
