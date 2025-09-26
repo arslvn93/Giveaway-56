@@ -63,7 +63,7 @@ const config = {
       },
       {
         "icon": "fas fa-calendar-check",
-        "text": "Valid for October 24, 2025 game night"
+        "text": "Valid for the home opener on October 24th, 2025"
       },
       {
         "icon": "fas fa-star",
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758894479141_0",
+      "id": "q_auto_1758894521039_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894479141_1",
+      "id": "q_auto_1758894521039_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894479141_2",
+      "id": "q_auto_1758894521039_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
