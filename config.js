@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758894606902_0",
+      "id": "q_auto_1758910370496_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894606902_1",
+      "id": "q_auto_1758910370496_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758894606902_2",
+      "id": "q_auto_1758910370496_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -230,6 +230,44 @@ const config = {
         {
           "value": "I'm actively looking to buy or sell now",
           "text": "I'm actively looking to buy or sell now"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1758910370496_3",
+      "questionText": "Which area interests you most for your next move?",
+      "options": [
+        {
+          "value": "Downtown Toronto",
+          "text": "Downtown Toronto"
+        },
+        {
+          "value": "Midtown Toronto",
+          "text": "Midtown Toronto"
+        },
+        {
+          "value": "East end of Toronto",
+          "text": "East end of Toronto"
+        },
+        {
+          "value": "West end of Toronto",
+          "text": "West end of Toronto"
+        },
+        {
+          "value": "North York/Scarborough",
+          "text": "North York/Scarborough"
+        },
+        {
+          "value": "Mississauga/Brampton",
+          "text": "Mississauga/Brampton"
+        },
+        {
+          "value": "Outside the GTA",
+          "text": "Outside the GTA"
+        },
+        {
+          "value": "I'm flexible on location",
+          "text": "I'm flexible on location"
         }
       ]
     }
