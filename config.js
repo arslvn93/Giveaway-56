@@ -6,10 +6,10 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win Free Raptors Tickets to the Home Opener vs. Bucks!",
-    "heroSubheadline": "Watch the Raptors take on the Bucks this October with $360 in tickets for an unforgettable night out. Entry is free\u0000. Don´t miss your shot to see it live!",
+    "heroSubheadline": "Watch the Raptors take on the Bucks on October 24th, with two tickets worth $360",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/0c8ar07panrme0cs9qkrfy160g.jpg",
-    "promotionDates": "Enter from September 21 to October 9, 2025. Winner drawn October 10!",
-    "endDate": "2025-10-10T03:59:00.000Z",
+    "promotionDates": "Enter from September 26th to October 12th. Winner to be drawn on October 13th",
+    "endDate": "2025-10-13T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win!",
     "name": "Raptors Home Opener Giveaway",
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758887148923_0",
+      "id": "q_auto_1758894435478_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758887148923_1",
+      "id": "q_auto_1758894435478_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758887148923_2",
+      "id": "q_auto_1758894435478_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
