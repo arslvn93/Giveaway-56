@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758912399108_0",
+      "id": "q_auto_1759162412091_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758912399108_1",
+      "id": "q_auto_1759162412091_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758912399108_2",
+      "id": "q_auto_1759162412091_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758912399108_3",
+      "id": "q_auto_1759162412091_3",
       "questionText": "Which area interests you most for your next move?",
       "options": [
         {
@@ -279,7 +279,7 @@ const config = {
       "phone": "416-564-5464",
       "email": "jameshall@property.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by James Hall Real Estate and is not affiliated with the Toronto Raptors or NBA. Winner will be chosen at random on October 10, 2025. Must be 18+ and available in Toronto on October 24, 2025 to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by James Hall Real Estate and is not affiliated with the Toronto Raptors or NBA. Winner will be chosen at random on October 10, 2025. Must be 18+ and available in Toronto on October 24, 2025 to enter. Bots will be excluded from the giveaway.",
     "organizerLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoAlt": "",
