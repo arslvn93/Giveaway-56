@@ -13,8 +13,8 @@ const config = {
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win!",
     "name": "Raptors Home Opener Giveaway",
-    "successModalHeaderText": "You\u0000´re In the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Raptors Home Opener Night Out</strong> is in! Watch your inbox on October 10th. Good luck!",
+    "successModalHeaderText": "You´re In the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Raptors Home Opener Night Out</strong> is in! Watch your inbox on October 13th. Good luck!",
     "successModalEmailPrompt": "Tell your friends\u0000 more fans mean more fun. See you at the game?"
   },
   "settings": {
@@ -95,7 +95,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You´re In!",
-        "description": "You´re officially entered. Winner picked October 10th."
+        "description": "You´re officially entered. Winner picked October 13th."
       }
     ],
     "highlights": [
@@ -163,12 +163,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-56.netlify.app%2Fadmin&text=Win%20Raptors%20Home%20Opener%20Tickets%20-%20$360%20Basketball%20Night%20Out!"
     },
     "subtitle": "Want to see the Raptors live? Enter your info for a chance to win free tickets!",
-    "entryCountText": "Hundreds of entries already\u0000 will you be our lucky winner?",
+    "entryCountText": "Hundreds of entries already - will you be our lucky winner?",
     "socialSharePrompt": "Love sports? Share this giveaway and help a friend win too!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759162412091_0",
+      "id": "q_auto_1759180509582_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759162412091_1",
+      "id": "q_auto_1759180509582_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759162412091_2",
+      "id": "q_auto_1759180509582_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759162412091_3",
+      "id": "q_auto_1759180509582_3",
       "questionText": "Which area interests you most for your next move?",
       "options": [
         {
@@ -265,7 +265,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You\u0000´re In the Running!",
-    "mainMessage": "Your entry for the <strong>Raptors Home Opener Night Out</strong> is in! Watch your inbox on October 10th. Good luck!",
+    "mainMessage": "Your entry for the <strong>Raptors Home Opener Night Out</strong> is in! Watch your inbox on October 13th. Good luck!",
     "socialPromptText": "Tell your friends\u0000! More fans mean more fun. See you at the game?"
   },
   "footerContact": {
@@ -279,7 +279,7 @@ const config = {
       "phone": "416-564-5464",
       "email": "jameshall@property.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by James Hall Real Estate and is not affiliated with the Toronto Raptors or NBA. Winner will be chosen at random on October 10, 2025. Must be 18+ and available in Toronto on October 24, 2025 to enter. Bots will be excluded from the giveaway.",
+    "footerDisclaimer": "This giveaway is sponsored by James Hall Real Estate and is not affiliated with the Toronto Raptors or NBA. Winner will be chosen at random on October 13, 2025. Must be 18+ and available in Toronto on October 24, 2025 to enter. Bots will be excluded from the giveaway.",
     "organizerLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoAlt": "",
