@@ -153,7 +153,7 @@ const config = {
       "text": "The winner is picked at random. Each entry has an equal shot."
     },
     "importantNotice": {
-      "title": "Winner Chosen October 10th",
+      "title": "Winner Chosen October 13th",
       "text": "Watch your email! Only the winner will get a special message from us."
     }
   },
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759180509582_0",
+      "id": "q_auto_1759246830275_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759180509582_1",
+      "id": "q_auto_1759246830275_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759180509582_2",
+      "id": "q_auto_1759246830275_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -234,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759180509582_3",
+      "id": "q_auto_1759246830275_3",
       "questionText": "Which area interests you most for your next move?",
       "options": [
         {
